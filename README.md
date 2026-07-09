@@ -1,34 +1,117 @@
+<h1 align="center">👋 Hi, I'm Hitesh Nathbuva</h1>
 
-<h1 align="center">Hi 👋, I'm Hitesh Nathbuva</h1>
-<h3 align="center">Student of TYBCA at RCP IMRD ,Shirpur</h3>
+<h3 align="center">
+AI Developer • Data Analyst • Python Developer
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshnathbuva&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshnathbuva" /> </p>
+# 💡 About Me
 
-- 📫 How to reach me **nathbuvahitesh@gmail.com**
+- 🎓 BCA Graduate
+- 📍 Maharashtra, India
+- 🤖 Passionate about AI, Data Science & Automation
+- 📈 Learning Machine Learning & Generative AI
+- 🚀 Building Real World AI Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hitesh-nathbuva-46b9aa252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh nathbuva" height="30" width="40" /></a>
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0055FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
+# 📊 GitHub Stats
 
+<p align="center">
 
-<!--
-**HiteshNathbuva/HiteshNathbuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiteshNathbuva&show_icons=true&theme=tokyonight"/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HiteshNathbuva&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshNathbuva&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 Featured Projects
+
+- 🤖 Dharma AI
+- 🐄 GauRakshak Bharat
+- 📊 Mobile Sales Dashboard
+- 🤖 AI Chatbot
+- 🌐 Portfolio Website
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Data Driven Competition (2nd Rank)
+- 🥉 JavaVerse Competition (3rd Rank)
+- 🏅 College Hackathon Finalist
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:nathbuvahitesh@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HiteshNathbuva&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
